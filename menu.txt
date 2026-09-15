@@ -8,4 +8,4 @@ Regular Menu:
 - Fruit Bowl - ₹50
 - Chicken Biryani - ₹200
 - Nutella Waffle - ₹120
-- Veg Noodles - ₹60
+
